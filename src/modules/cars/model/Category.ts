@@ -13,4 +13,4 @@ class Category {
   }
 }
 
-export { Category }
+export { Category };
