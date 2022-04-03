@@ -9,6 +9,7 @@ const app = express();
 
 app.use(express.json());
 
+/** Swagger Doc */
 app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerFile));
 
 /** Routes */
