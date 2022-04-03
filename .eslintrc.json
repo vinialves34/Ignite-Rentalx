@@ -39,6 +39,7 @@
     "no-empty-function": "off",
     "lines-between-class-members": "off",
     "array-callback-return": "off",
+    "no-use-before-define": "off",
     "import/extensions": [
       "error",
       "ignorePackages",
